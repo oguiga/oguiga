@@ -1,6 +1,6 @@
 ## Hi I'm Guilherme
 
-- 🌱 Software Engineer student
+- 👨🏽‍💻 Software Engineer student
 - 💬 Passionate about games and technology
 
 <div>
